@@ -6,7 +6,7 @@ import {
 
 import "./index.css";
 import Layout from "./pages/Layout";
-import Planet from "./components/planet";
+import Planet from "./components/Planet";
 
 const router = createBrowserRouter([
   {
